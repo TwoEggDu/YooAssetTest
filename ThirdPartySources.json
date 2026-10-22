@@ -1,0 +1,23 @@
+{
+  "yooasset": {
+    "repository": "https://github.com/tuyoogame/YooAsset",
+    "tag": "3.0.6",
+    "commit": "3b4cfb36cc2e81b9558ab74d65fee2cf2eac2804",
+    "archive": "https://github.com/tuyoogame/YooAsset/archive/refs/tags/3.0.6.zip",
+    "sha256": "67E0096389B944945C35982035EE6EF3CDBDA06B3AF2A58D6AC0A98975C7533A",
+    "sourceDirectory": "Assets/YooAsset",
+    "activeSampleDirectory": "Assets/Samples/Space Shooter"
+  },
+  "nginx": {
+    "version": "1.30.6",
+    "archive": "https://nginx.org/download/nginx-1.30.6.zip",
+    "sha256": "C6EE35EDB0A861063323F709192AE50D1EEFAF2EA7D00678BD2B22D8542DC61E",
+    "directory": "Tools/nginx-1.30.6"
+  },
+  "unity": {
+    "version": "2022.3.62f3",
+    "revision": "96770f904ca7",
+    "scriptableBuildPipeline": "1.21.25"
+  },
+  "notes": "SHA256 values record the downloaded archives; they do not constitute signature verification. Official licenses remain with each distribution."
+}

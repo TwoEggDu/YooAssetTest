@@ -1,0 +1,17 @@
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/UserSettings/
+/Builds/
+/Bundles/
+/.downloads/
+/Server/html/CDN/
+/Server/logs/
+/Server/temp/
+/Tools/nginx-*/
+/Assets/StreamingAssets/yoo/
+/Assets/StreamingAssets/yoo.meta
+*.csproj
+*.sln
+.vs/
