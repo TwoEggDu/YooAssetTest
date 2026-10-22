@@ -1,5 +1,7 @@
 # YooAsset 官方 Demo 测试工程
 
+后续变更：2026-10-22 用户指定 YooAsset 改由 UPM 包引入、Sample 保留在工程内。库放入 Assets 的原始选择已被替换，当前方案见 `docs/upm-migration.md`。
+
 日期：2026-10-21
 
 ## 目标与范围

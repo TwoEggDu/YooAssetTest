@@ -1,5 +1,7 @@
 # 搭建与验证记录
 
+本文件记录首次搭建时的验证。工程随后按用户要求迁移到 UPM 引入 YooAsset，并重新复制 Sample；迁移后的结构和本轮验证见 `upm-migration.md`。
+
 验证日期：2026-10-22（Asia/Shanghai）。
 
 ## 当前状态

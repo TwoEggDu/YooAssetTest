@@ -5,8 +5,11 @@
     "commit": "3b4cfb36cc2e81b9558ab74d65fee2cf2eac2804",
     "archive": "https://github.com/tuyoogame/YooAsset/archive/refs/tags/3.0.6.zip",
     "sha256": "67E0096389B944945C35982035EE6EF3CDBDA06B3AF2A58D6AC0A98975C7533A",
-    "sourceDirectory": "Assets/YooAsset",
-    "activeSampleDirectory": "Assets/Samples/Space Shooter"
+    "sourceDirectory": "Packages/com.tuyoogame.yooasset",
+    "activeSampleDirectory": "Assets/Samples/Space Shooter",
+    "packageId": "com.tuyoogame.yooasset",
+    "installation": "UPM Git dependency",
+    "gitUrl": "https://github.com/tuyoogame/YooAsset.git?path=Assets/YooAsset#3.0.6"
   },
   "nginx": {
     "version": "1.30.6",
